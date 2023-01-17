@@ -1,0 +1,5 @@
+$ Ruby_Exercice_2.rb
+puts "Quel est ton nom ?"
+input ("Saisissez votre prénom :")
+name = gets.chomp
+puts "Bonjour #{name}"
